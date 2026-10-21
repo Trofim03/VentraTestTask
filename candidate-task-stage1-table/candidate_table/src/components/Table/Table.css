@@ -1,0 +1,70 @@
+.personsTable {
+    display: block;
+    border: 1px solid #1570ef;
+    border-radius: 15px;
+    width: fit-content;
+
+    thead tr, tbody tr, tfoot tr {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+
+        th, td {
+            height: 20px;
+            border-right: 1px solid #1570ef;
+            text-align: center;
+            padding: 0 10px;
+
+            &.active {
+                background: #d5d7da;
+            }
+        }
+
+        th, td {
+            &:last-child {
+                border-right: none;
+            }
+        }
+    }
+
+    thead tr, tbody tr {
+        border-bottom: 1px solid #1570ef;
+    }
+
+    tbody tr th {
+        font-weight: 400;
+    }
+
+    thead tr {
+        th, td {
+            &:not(:first-child) {
+                cursor: pointer;
+            }
+            user-select: none;
+            &:first-child {
+                border-radius: 15px 0 0 0;
+            }
+            &:last-child {
+                border-radius: 0 15px 0 0;
+            }
+        }
+    }
+    tfoot tr {
+        th, td {
+            &:first-child {
+                border-radius: 0 0 0 15px;
+            }
+            &:last-child {
+                border-radius: 0 0 15px 0;
+            }
+        }
+    }
+}
+
+.selectContainer {
+    display: block;
+    margin-bottom: 15px;
+
+    button {
+        margin-right: 15px;
+    }
+}

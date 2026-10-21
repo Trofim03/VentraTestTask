@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "fullName": "Козлов Сергей",
+    "department": "HR",
+    "hireDate": "2025-02-12",
+    "status": "Работает"
+  },
+  {
+    "id": 2,
+    "fullName": "Соколова Юлия",
+    "department": "Разработка",
+    "hireDate": "2023-02-08",
+    "status": "Работает"
+  },
+  {
+    "id": 3,
+    "fullName": "Смирнов Николай",
+    "department": "Поддержка",
+    "hireDate": "2020-11-21",
+    "status": "Работает"
+  },
+  {
+    "id": 4,
+    "fullName": "Волкова Елена",
+    "department": "Поддержка",
+    "hireDate": "2020-01-18",
+    "status": "Работает"
+  },
+  {
+    "id": 5,
+    "fullName": "Козлова Анна",
+    "department": "Продажи",
+    "hireDate": "2026-05-18",
+    "status": "Работает"
+  },
+  {
+    "id": 6,
+    "fullName": "Иванова Наталья",
+    "department": "Поддержка",
+    "hireDate": "2020-06-04",
+    "status": "Работает"
+  },
+  {
+    "id": 7,
+    "fullName": "Волкова Ольга",
+    "department": "Разработка",
+    "hireDate": "2024-11-18",
+    "status": "В отпуске"
+  },
+  {
+    "id": 8,
+    "fullName": "Новиков Андрей",
+    "department": "Поддержка",
+    "hireDate": "2022-05-08",
+    "status": "Уволен"
+  },
+  {
+    "id": 9,
+    "fullName": "Иванова Мария",
+    "department": "Поддержка",
+    "hireDate": "2024-06-24",
+    "status": "Работает"
+  },
+  {
+    "id": 10,
+    "fullName": "Иванов Артём",
+    "department": "Разработка",
+    "hireDate": "2019-06-05",
+    "status": "Работает"
+  },
+  {
+    "id": 11,
+    "fullName": "Смирнова Ирина",
+    "department": "HR",
+    "hireDate": "2025-10-26",
+    "status": "Работает"
+  },
+  {
+    "id": 12,
+    "fullName": "Лебедева Татьяна",
+    "department": "HR",
+    "hireDate": "2024-10-26",
+    "status": "Работает"
+  },
+  {
+    "id": 13,
+    "fullName": "Попов Пётр",
+    "department": "Бухгалтерия",
+    "hireDate": "2018-01-24",
+    "status": "В отпуске"
+  },
+  {
+    "id": 14,
+    "fullName": "Новикова Екатерина",
+    "department": "Маркетинг",
+    "hireDate": "2022-01-15",
+    "status": "В отпуске"
+  },
+  {
+    "id": 15,
+    "fullName": "Иванов Артём",
+    "department": "Бухгалтерия",
+    "hireDate": "2021-03-24",
+    "status": "Работает"
+  },
+  {
+    "id": 16,
+    "fullName": "Новиков Николай",
+    "department": "Разработка",
+    "hireDate": "2023-09-09",
+    "status": "Работает"
+  },
+  {
+    "id": 17,
+    "fullName": "Морозова Ирина",
+    "department": "Маркетинг",
+    "hireDate": "2022-11-13",
+    "status": "В отпуске"
+  },
+  {
+    "id": 18,
+    "fullName": "Иванова Наталья",
+    "department": "Продажи",
+    "hireDate": "2020-01-16",
+    "status": "Работает"
+  },
+  {
+    "id": 19,
+    "fullName": "Попова Наталья",
+    "department": "Маркетинг",
+    "hireDate": "2023-09-12",
+    "status": "Работает"
+  },
+  {
+    "id": 20,
+    "fullName": "Кузнецова Татьяна",
+    "department": "HR",
+    "hireDate": "2026-11-22",
+    "status": "На испытательном сроке"
+  },
+  {
+    "id": 21,
+    "fullName": "Морозова Светлана",
+    "department": "Бухгалтерия",
+    "hireDate": "2023-02-16",
+    "status": "Работает"
+  },
+  {
+    "id": 22,
+    "fullName": "Соколова Елена",
+    "department": "Разработка",
+    "hireDate": "2024-03-04",
+    "status": "Уволен"
+  },
+  {
+    "id": 23,
+    "fullName": "Иванов Иван",
+    "department": "Разработка",
+    "hireDate": "2025-02-12",
+    "status": "Работает"
+  },
+  {
+    "id": 24,
+    "fullName": "Соколова Ольга",
+    "department": "Поддержка",
+    "hireDate": "2021-06-20",
+    "status": "Работает"
+  },
+  {
+    "id": 25,
+    "fullName": "Иванов Пётр",
+    "department": "Бухгалтерия",
+    "hireDate": "2024-08-16",
+    "status": "Уволен"
+  },
+  {
+    "id": 26,
+    "fullName": "Иванов Сергей",
+    "department": "HR",
+    "hireDate": "2021-08-27",
+    "status": "Работает"
+  },
+  {
+    "id": 27,
+    "fullName": "Смирнова Юлия",
+    "department": "Продажи",
+    "hireDate": "2025-06-05",
+    "status": "Уволен"
+  },
+  {
+    "id": 28,
+    "fullName": "Морозова Елена",
+    "department": "Маркетинг",
+    "hireDate": "2018-12-28",
+    "status": "Уволен"
+  },
+  {
+    "id": 29,
+    "fullName": "Кузнецов Андрей",
+    "department": "Маркетинг",
+    "hireDate": "2025-09-25",
+    "status": "На испытательном сроке"
+  },
+  {
+    "id": 30,
+    "fullName": "Волкова Мария",
+    "department": "Продажи",
+    "hireDate": "2023-12-26",
+    "status": "На испытательном сроке"
+  },
+  {
+    "id": 31,
+    "fullName": "Новиков Владимир",
+    "department": "Маркетинг",
+    "hireDate": "2017-05-16",
+    "status": "В отпуске"
+  },
+  {
+    "id": 32,
+    "fullName": "Лебедев Артём",
+    "department": "Бухгалтерия",
+    "hireDate": "2022-06-03",
+    "status": "На испытательном сроке"
+  },
+  {
+    "id": 33,
+    "fullName": "Новиков Алексей",
+    "department": "Продажи",
+    "hireDate": "2024-10-20",
+    "status": "Работает"
+  },
+  {
+    "id": 34,
+    "fullName": "Лебедева Светлана",
+    "department": "HR",
+    "hireDate": "2018-07-26",
+    "status": "Работает"
+  },
+  {
+    "id": 35,
+    "fullName": "Новикова Мария",
+    "department": "Продажи",
+    "hireDate": "2022-02-26",
+    "status": "Работает"
+  },
+  {
+    "id": 36,
+    "fullName": "Новикова Ирина",
+    "department": "Бухгалтерия",
+    "hireDate": "2018-12-06",
+    "status": "В отпуске"
+  },
+  {
+    "id": 37,
+    "fullName": "Смирнов Сергей",
+    "department": "Продажи",
+    "hireDate": "2024-11-05",
+    "status": "Работает"
+  },
+  {
+    "id": 38,
+    "fullName": "Новикова Екатерина",
+    "department": "HR",
+    "hireDate": "2019-09-18",
+    "status": "Уволен"
+  },
+  {
+    "id": 39,
+    "fullName": "Иванов Иван",
+    "department": "Поддержка",
+    "hireDate": "2019-07-28",
+    "status": "В отпуске"
+  },
+  {
+    "id": 40,
+    "fullName": "Смирнов Алексей",
+    "department": "Маркетинг",
+    "hireDate": "2025-04-25",
+    "status": "Работает"
+  },
+  {
+    "id": 41,
+    "fullName": "Морозова Анна",
+    "department": "Бухгалтерия",
+    "hireDate": "2017-12-12",
+    "status": "На испытательном сроке"
+  },
+  {
+    "id": 42,
+    "fullName": "Морозова Екатерина",
+    "department": "Бухгалтерия",
+    "hireDate": "2025-03-18",
+    "status": "На испытательном сроке"
+  },
+  {
+    "id": 43,
+    "fullName": "Смирнов Владимир",
+    "department": "Бухгалтерия",
+    "hireDate": "2026-01-25",
+    "status": "На испытательном сроке"
+  },
+  {
+    "id": 44,
+    "fullName": "Кузнецова Наталья",
+    "department": "Бухгалтерия",
+    "hireDate": "2018-09-02",
+    "status": "В отпуске"
+  },
+  {
+    "id": 45,
+    "fullName": "Морозов Владимир",
+    "department": "Поддержка",
+    "hireDate": "2018-09-02",
+    "status": "Работает"
+  },
+  {
+    "id": 46,
+    "fullName": "Смирнов Дмитрий",
+    "department": "Разработка",
+    "hireDate": "2025-01-25",
+    "status": "Работает"
+  },
+  {
+    "id": 47,
+    "fullName": "Новикова Ольга",
+    "department": "Маркетинг",
+    "hireDate": "2025-10-17",
+    "status": "В отпуске"
+  },
+  {
+    "id": 48,
+    "fullName": "Новиков Дмитрий",
+    "department": "Поддержка",
+    "hireDate": "2024-09-08",
+    "status": "Работает"
+  },
+  {
+    "id": 49,
+    "fullName": "Морозова Анна",
+    "department": "Продажи",
+    "hireDate": "2019-07-04",
+    "status": "На испытательном сроке"
+  },
+  {
+    "id": 50,
+    "fullName": "Иванов Андрей",
+    "department": "HR",
+    "hireDate": "2018-04-22",
+    "status": "Работает"
+  }
+]
